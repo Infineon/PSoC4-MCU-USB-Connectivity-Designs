@@ -53,7 +53,6 @@ To use the code examples in this repository, please download and install
 
 ## Code Example List
 
-### USB 
 #### 1. USBFS Bootloadable
 This example demonstrates the basic operation of Bootloader and Bootloadable components when the communication interface is USB
 #### 2. USBFS Bootloader
