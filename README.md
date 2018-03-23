@@ -17,13 +17,13 @@ Feel free to explore through the code example source files and Let us innovate t
 The examples in this repository demonstrates PSoC 4 based Universal Serial Bus (USB) connectivity feature. These code examples show how to integrate the complex USB protocol into your design effortlessly.
 If you are new to developing projects with PSoC 4 MCU, we recommend you to refer the [PSoC 4 Getting Started](https://github.com/cypresssemiconductorco/PSoC-4-MCU-Getting-Started) GitHub page which can help you familiarize with device features and guides you to create a simple PSoC 4 design with PSoC Creator IDE. For other block specific design please visit the following GitHub Pages:
 
-#### 1. Analog Designs
-#### 2. [CapSense](https://github.com/cypresssemiconductorco/PSoC4-MCU-CapSense)
+#### 1. [Analog Designs](https://github.com/cypresssemiconductorco/PSoC4-MCU-Analog-Designs)
+#### 2. [Capcitive Touch Designs](https://github.com/cypresssemiconductorco/PSoC4-MCU-CapSense)
 #### 3. [Digital Designs](https://github.com/cypresssemiconductorco/PSoC4-MCU-Digital-Designs)
-#### 4. BLE
+#### 4. [BLE Connectivity Designs](https://github.com/cypresssemiconductorco/PSoC4-MCU-BLE-Connectivity-Designs)
 #### 5. [Device Related Designs](https://github.com/cypresssemiconductorco/PSoC4-MCU-Device-Related-Designs)
 #### 6. [PSoC 4 Pioneer Kit](https://github.com/cypresssemiconductorco/PSoC4-MCU-Pioneer-Kits)
-#### 7. System Design
+#### 7. [System Design](https://github.com/cypresssemiconductorco/PSoC4-MCU-System-Designs)
 
 You can use these block level examples to guide you through the development of a system-level design. All the code examples in this repository comes with well documented design guidelines to help you understand the design and how to develop it. The code examples and their associated documentation are in the Code Example folder in the repository. 
 
@@ -44,7 +44,7 @@ To use the code examples in this repository, please download and install
 
 * [CY8CKIT-044 PSoC Analog Coprocessor Pioneer Kit](http://www.cypress.com/documentation/development-kitsboards/cy8ckit-048-psoc-analog-coprocessor-pioneer-kit)
 
-* [PSoC 4 CY8CKIT-049 4xxx Prototyping Kits](http://www.cypress.com/documentation/development-kitsboards/psoc-4-cy8ckit-049-4xxx-prototyping-kits)
+* [CY8CKIT-049-4xxx PSoC 4 Prototyping Kit](http://www.cypress.com/documentation/development-kitsboards/psoc-4-cy8ckit-049-4xxx-prototyping-kits)
 
 * [CY8CKIT-042 PSoC 4 Pioneer Kit](http://www.cypress.com/documentation/development-kitsboards/cy8ckit-042-psoc-4-pioneer-kit) 
 
