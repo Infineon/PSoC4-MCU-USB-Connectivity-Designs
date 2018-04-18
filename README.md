@@ -62,6 +62,10 @@ This example demonstrates how to establish communication between the PC and Vend
 This code example demonstrates USB HID interface class operation by implementing a 3-button mouse
 #### 5. USBFS LPM PSoC 4
 This code example demonstrates USB Link Power Management (LPM) implementation
+#### 6. USBFS Suspend
+This code example demonstrates the ability of USBFS Component to detect a  suspend condition on the USB bus and resume its operation when a resume condition is detected.
+#### 7. USBFS UART
+This code example demonstrates the USBUART implementation. It echoes received data to the Virtual COM port terminal
 
 ## References
 #### 1. PSoC 4 MCU
