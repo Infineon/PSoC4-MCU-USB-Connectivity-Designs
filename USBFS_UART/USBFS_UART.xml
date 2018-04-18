@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="USBFS_UART">
+  <Version>2.0</Version>
+  <Keyword>USBFS</Keyword>
+  <Keyword>CDC</Keyword>
+  <Keyword>UART</Keyword>
+  <Description>This datasheet example project demonstrates the operation of the USBFS component as an RS-232 logical cable replacement.</Description>
+  <DeviceFilter>PSoC 3</DeviceFilter>
+  <DeviceFilter>PSoC 5LP</DeviceFilter>
+  <DeviceFilter>PSoC 4200L</DeviceFilter>
+  <Document>USBFS_UART.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>
+
